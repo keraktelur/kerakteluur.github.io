@@ -1,0 +1,23 @@
+body
+{
+	background-image: url("img/victorian.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: 
+}
+@font-face{
+	font-family: 'ceria_lebaran';
+	src:url(font/ceria_lebaran.otf) format('opentype');
+}
+
+.header {
+	margin-top: 15px;
+}
+.sampul {
+	padding:25px 25px;
+}
+#judul{
+	font-family: 'ceria_lebaran';
+	font-size: 20px;
+}
